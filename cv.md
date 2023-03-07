@@ -1,5 +1,3 @@
-#### [back](https://AlexRixten.github.io/rsschool-cv)
-
 # Alex Kharitonov
 ### Frontend Developer
 
