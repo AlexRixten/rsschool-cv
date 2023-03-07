@@ -1,4 +1,5 @@
 # Alex Kharitonov
+![ME](https://avatars.githubusercontent.com/u/91592026?s=96&v=4)
 ### Frontend Developer
 
 ---
