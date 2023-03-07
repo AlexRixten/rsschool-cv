@@ -67,6 +67,7 @@ function XO(str) {
     return countX === countO;
 }
 ```
+
 ---
 
 ### Courses:
@@ -82,8 +83,6 @@ function XO(str) {
 * [Udemy: React - The Complete Guide (incl Hooks, React Router, Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/ "React - The Complete Guide (incl Hooks, React Router, Redux)")
 
 * [RS Schools Course «React 2023 Q1»](https://app.rs.school/course/student/dashboard?course=react-2023-q1 "React 2023 Q1")  (in progress)
-
----
 
 ---
 
@@ -108,6 +107,3 @@ P.S. This project was created perfectly, but boss didn't take me
 
 - Russian (native)
 - English (B1)
-
-
-
